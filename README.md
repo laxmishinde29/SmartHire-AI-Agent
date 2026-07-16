@@ -1,7 +1,5 @@
 # 🤖 SmartHire AI Agent
 
----
-
 ## 📌 Overview
 
 SmartHire AI Agent is a command-line AI application developed in Python that simulates technical interviews. The system asks technical questions, evaluates candidate responses using a locally running Llama 3 Large Language Model via Ollama, provides intelligent feedback, calculates scores, and generates a detailed interview performance report.
