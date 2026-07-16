@@ -1,7 +1,5 @@
 # 🤖 SmartHire AI Agent
 
-> An AI-powered Mock Interview System that conducts technical interviews, evaluates answers using Llama 3 through Ollama, and generates personalized interview reports.
-
 ---
 
 ## 📌 Overview
